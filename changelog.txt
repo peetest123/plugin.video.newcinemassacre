@@ -1,0 +1,6 @@
+0.0.1 - oct 30th 2016
+- Beta testing addon 
+
+0.0.2 - oct 40th 2016
+- added more playlists
+- made minor improvments
