@@ -98,7 +98,7 @@ plugintools.add_item(
         #action="", 
         title="Reviews",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_8+"/",
-        thumbnail="https://dl.dropboxusercontent.com/u/50103581/avgn%20addon/bullshit.png",
+        thumbnail="https://dl.dropboxusercontent.com/u/50103581/avgn%20addon/reviews.png",
         folder=True )
 plugintools.add_item( 
         #action="", 
