@@ -15,9 +15,7 @@
     <summary lang="en">cinemassacre</summary>
     <description lang="en">Play videos from Cinemassacre.com such as avgn,boardjames,james and mike mondays and many many more</description>
     <platform>all</platform>
-    <forum>http://forum.kodi.tv/showthread.php?tid=254203</forum>
+    <forum>http://forum.kodi.tv/showthread.php?tid=295257</forum>
     <source>https://www.cinemassacre.com</source>
-    <website>https://zag4me.wordpress.com/</website>
-    <email>zag@kodi.tv</email>
   </extension>
 </addon>
